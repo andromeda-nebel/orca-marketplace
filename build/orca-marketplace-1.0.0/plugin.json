@@ -1,0 +1,9 @@
+{
+  "name": "orca-marketplace",
+  "version": "1.0.0",
+  "description": "APM project for test2",
+  "author": {
+    "name": "eric.brandt@og1o.de"
+  },
+  "license": "MIT"
+}
