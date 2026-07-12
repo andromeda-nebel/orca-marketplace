@@ -1,0 +1,19 @@
+{
+  "name": "orca-marketplace",
+  "owner": {
+    "name": "andromeda-nebel",
+    "url": "https://github.com/andromeda-nebel/orca-marketplace"
+  },
+  "plugins": [
+    {
+      "name": "oneo-corporate-skill",
+      "description": "Human-readable description of the package",
+      "source": {
+        "source": "github",
+        "repo": "andromeda-nebel/orca-marketplace",
+        "ref": "1.0.0",
+        "sha": "509f78cbed9c85b3681700d404868f96d8c30076"
+      }
+    }
+  ]
+}
