@@ -6,7 +6,6 @@ author: eric.brandt@og1o.de
 # Resolution order: --target flag > this field > auto-detect from filesystem.
 # Accepted values: copilot, claude, cursor, opencode, codex, gemini, windsurf, all
 targets:
-  - copilot
   - opencode
 dependencies:
   apm: []
