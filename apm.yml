@@ -6,7 +6,7 @@ author: eric.brandt@og1o.de
 # Resolution order: --target flag > this field > auto-detect from filesystem.
 # Accepted values: copilot, claude, cursor, opencode, codex, gemini, windsurf, all
 targets:
-  - opencode
+- opencode
 dependencies:
   apm: []
   mcp: []
@@ -38,10 +38,10 @@ marketplace:
   #   apm pack --marketplace=claude,codex --json | jq -r '.marketplace.outputs[].path'
 
   packages:
-    - name: oneo-corporate-skill
-      description: Human-readable description of the package
-      source: andromeda-nebel/orca-marketplace
-      version: "^1.0.0"
+  - name: oneo-corporate-skill
+    description: Human-readable description of the package
+    source: andromeda-nebel/orca-marketplace
+    version: "^1.0.0"
       # Required when outputs includes codex:
       # category: Productivity
       # Optional overrides:
@@ -59,3 +59,6 @@ marketplace:
     #   description: A locally vendored tool
     #   version: 0.1.0
     #   # tag_pattern: "{name}-v{version}"
+  - name: lighthouse-skills
+    source: EAlf91/lighthouse-skills
+    version: 1.0.3

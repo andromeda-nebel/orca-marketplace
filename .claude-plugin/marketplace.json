@@ -8,11 +8,25 @@
     {
       "name": "oneo-corporate-skill",
       "description": "Human-readable description of the package",
+      "version": "1.0.0",
       "source": {
         "source": "github",
         "repo": "andromeda-nebel/orca-marketplace",
         "ref": "1.0.0",
-        "sha": "509f78cbed9c85b3681700d404868f96d8c30076"
+        "sha": "bcf887d05f212b9b8072a98d0b2568d7f0f8ae1c",
+        "tag_pattern": "{version}"
+      }
+    },
+    {
+      "name": "lighthouse-skills",
+      "description": "APM project for lighthouse-skills",
+      "version": "1.0.3",
+      "source": {
+        "source": "github",
+        "repo": "EAlf91/lighthouse-skills",
+        "ref": "1.0.3",
+        "sha": "a9c6ed362a3a2bb75135b6eeff2a1d0e60eced91",
+        "tag_pattern": "{version}"
       }
     }
   ]
