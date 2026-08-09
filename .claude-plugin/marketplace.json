@@ -20,7 +20,7 @@
     {
       "name": "lighthouse-skills",
       "description": "APM project for lighthouse-skills",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "source": {
         "source": "github",
         "repo": "EAlf91/lighthouse-skills",
