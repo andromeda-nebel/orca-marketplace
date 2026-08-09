@@ -61,4 +61,4 @@ marketplace:
     #   # tag_pattern: "{name}-v{version}"
   - name: lighthouse-skills
     source: EAlf91/lighthouse-skills
-    version: 1.0.6
+    version: 1.0.7
