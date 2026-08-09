@@ -20,12 +20,12 @@
     {
       "name": "lighthouse-skills",
       "description": "APM project for lighthouse-skills",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "source": {
         "source": "github",
         "repo": "EAlf91/lighthouse-skills",
-        "ref": "884542badc0cf33b378deea0eb5dafbfbd39986a",
-        "sha": "884542badc0cf33b378deea0eb5dafbfbd39986a",
+        "ref": "a4bedd6d374b7330d58d9f3b63b81c5090ac5237",
+        "sha": "a4bedd6d374b7330d58d9f3b63b81c5090ac5237",
         "tag_pattern": "{version}"
       }
     }
