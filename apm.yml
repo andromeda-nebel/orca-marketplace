@@ -61,4 +61,4 @@ marketplace:
     #   # tag_pattern: "{name}-v{version}"
   - name: lighthouse-skills
     source: EAlf91/lighthouse-skills
-    ref: 884542badc0cf33b378deea0eb5dafbfbd39986a
+    ref: a4bedd6d374b7330d58d9f3b63b81c5090ac5237
