@@ -24,8 +24,8 @@
       "source": {
         "source": "github",
         "repo": "EAlf91/lighthouse-skills",
-        "ref": "1.0.8",
-        "sha": "f84794ad117a541f04831308f6788fd67836acfe",
+        "ref": "1.0.9",
+        "sha": "1be0e02ec339a6a52514e1bd9919e697d7ce0b9d",
         "tag_pattern": "{version}"
       }
     }
